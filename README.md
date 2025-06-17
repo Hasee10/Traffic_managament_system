@@ -1,15 +1,8 @@
-Absolutely! Here's your **fully updated, interactive, and professional `README.md`** file for your app **TrafficIntel**, with the name used consistently throughout:
-
----
-
-````markdown
 # 🚦 TrafficIntel - Smart Traffic Management System
 
 > **Author:** Muhammad Haseeb Arshad  
 > **Built with:** 💻 C++ (OOP) | 🗄 MySQL Database  
 > **Category:** Smart Cities | Real-Time Systems | Transport Automation
-
----
 
 ## 🌟 Overview
 
@@ -194,18 +187,3 @@ You are free to use and extend **TrafficIntel** for personal or commercial use w
 ---
 
 > 💡 *“Cities don't need more roads. They need smarter systems. That’s TrafficIntel.”*
-
-```
-
----
-
-✅ **Next Steps (Optional):**  
-Let me know if you want:
-
-- `main.cpp` sample  
-- `db_config.h`  
-- Admin CLI interface  
-- Flowchart or diagram of architecture  
-
-Happy coding!
-```
